@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  padding: 2rem;
+  font-family: sans-serif;
+}
+
+.swatches {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+.swatches div:hover {
+  opacity: 0.8;
+}
